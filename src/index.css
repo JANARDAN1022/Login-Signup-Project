@@ -1,0 +1,52 @@
+html {
+    background: linear-gradient(to right,rgb(98, 98, 238),rgb(228, 97, 119,0.8),rgb(244, 199, 118,0.75));
+}
+.MAIN {
+    border: 2px solid white;
+    margin-top:190px;
+    height:420px;
+    width:350px;
+    margin-left: 650px;
+}
+.Main{
+   margin-top:100px;
+   margin-left: 90px;
+}
+.Form> input {
+    border: none;
+    border-radius: 5px;
+    height:30px;
+}
+.Form> label{
+    color: white;
+}
+.Head{
+    color:white;
+    margin-left: 20px;
+}
+button{
+    border: none;
+    border-radius: 5px;
+    height: 30px;
+    width: 169px;
+    background-color: white;
+}
+
+.LINK{
+    background: transparent;
+    text-decoration: underline;
+    color:blue
+}
+.LINK:hover{
+    color:white;
+    cursor: pointer;
+}
+.LINK1{
+    background: transparent;
+    text-decoration: underline;
+    color:blue
+}
+.LINK1:hover{
+    color:white;
+    cursor: pointer;
+}
